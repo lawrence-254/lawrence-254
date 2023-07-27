@@ -1,5 +1,5 @@
 - 👋 Hello, fellow developers! Welcome to my GitHub profile!
-- 👀 I am Lawrence Odhiambo, a passionate software engineer(aspiring) with a keen interest in building scalable and innovative applications .My journey in the world of coding began during my college days, and since then, I've been captivated by the endless possibilities of technology. I thrive on challenges and love to explore new frameworks and languages to expand my knowledge.
+- 👀 I am Lawrence Odhiambo, a passionate software engineer with a keen interest in building scalable and innovative applications .My journey in the world of coding began during my college days, and since then, I've been captivated by the endless possibilities of technology. I thrive on challenges and love to explore new frameworks and languages to expand my knowledge.
 - 🌱 I believe in the importance of continuous learning, and I am currently learning Software Development at ALX Africa
 - 💞️ Tech Stack
 My ever-expanding tech stack includes (but is not limited to):
