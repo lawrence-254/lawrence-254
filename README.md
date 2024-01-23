@@ -4,10 +4,10 @@
 - 💞️ Tech Stack
 My ever-expanding tech stack includes (but is not limited to):
 
-Languages: JavaScript (React.js), Python, C, PHP
-Databases: SQL
-Tools: Git
-CI/CD: GitHub Actions
+Languages: JavaScript (Vanilla, JQuery, React.js), Python(flask, django), C, PHP(vanilla, laravel);
+Databases: SQL(MySql, PostgressSql), NoSQL(MongoDb, Redis);
+Tools: Git;
+CI/CD: GitHub Actions;
 - 📫 Let's Connect:
 I'm always open to connecting with fellow developers, tech enthusiasts, or anyone interested in a good coding discussion. Feel free to reach out to me via email at lodhiambo26@gmail.com
 
